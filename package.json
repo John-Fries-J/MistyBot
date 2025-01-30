@@ -1,0 +1,26 @@
+{
+  "name": "mistybot",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Fries-J/MistyBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "john-fries-j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-Fries-J/MistyBot/issues"
+  },
+  "homepage": "https://github.com/John-Fries-J/MistyBot#readme",
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
+}
