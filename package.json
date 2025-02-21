@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/John-Fries-J/MistyBot#readme",
   "dependencies": {
-    "discord.js": "^14.17.3",
-    "mistybot": "file:"
+    "discord.js": "^14.17.3"
   }
 }
